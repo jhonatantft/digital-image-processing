@@ -1,0 +1,20 @@
+# Tons de cinza (Média e ponderada)
+# Thresholding (Limiarização)   
+# Negativa 
+# Soma de imagens 
+# Soma Ponderada    
+# Subtração de imagens
+# Isolar canais de cores
+# Incrementar canais de cores (Ex.: Valor 50 ou 15%)
+# Valor do pixel
+# Histograma    
+# Zoom In
+# Zoom out 
+
+# Pontos salientes
+# Dilatação    
+# Erosão     
+# Abertura/Fechamento
+ 
+
+Webcam - Executar todos os algoritmos pegando os frames da webcam 
